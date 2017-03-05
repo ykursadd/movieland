@@ -1,0 +1,15 @@
+C:\Users\Regaip\Documents\Visual Studio 2013\Projects\2013123038_yasinkursadsurek\Movieland\Movieland\bin\Debug\Movieland.exe.config
+C:\Users\Regaip\Documents\Visual Studio 2013\Projects\2013123038_yasinkursadsurek\Movieland\Movieland\bin\Debug\Movieland.exe
+C:\Users\Regaip\Documents\Visual Studio 2013\Projects\2013123038_yasinkursadsurek\Movieland\Movieland\bin\Debug\Movieland.pdb
+C:\Users\Regaip\Documents\Visual Studio 2013\Projects\2013123038_yasinkursadsurek\Movieland\Movieland\bin\Debug\MetroFramework.Design.dll
+C:\Users\Regaip\Documents\Visual Studio 2013\Projects\2013123038_yasinkursadsurek\Movieland\Movieland\bin\Debug\MetroFramework.dll
+C:\Users\Regaip\Documents\Visual Studio 2013\Projects\2013123038_yasinkursadsurek\Movieland\Movieland\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Regaip\Documents\Visual Studio 2013\Projects\2013123038_yasinkursadsurek\Movieland\Movieland\obj\Debug\Movieland.csprojResolveAssemblyReference.cache
+C:\Users\Regaip\Documents\Visual Studio 2013\Projects\2013123038_yasinkursadsurek\Movieland\Movieland\obj\Debug\Movieland.Form1.resources
+C:\Users\Regaip\Documents\Visual Studio 2013\Projects\2013123038_yasinkursadsurek\Movieland\Movieland\obj\Debug\Movieland.Properties.Resources.resources
+C:\Users\Regaip\Documents\Visual Studio 2013\Projects\2013123038_yasinkursadsurek\Movieland\Movieland\obj\Debug\Movieland.csproj.GenerateResource.Cache
+C:\Users\Regaip\Documents\Visual Studio 2013\Projects\2013123038_yasinkursadsurek\Movieland\Movieland\obj\Debug\Movieland.exe
+C:\Users\Regaip\Documents\Visual Studio 2013\Projects\2013123038_yasinkursadsurek\Movieland\Movieland\obj\Debug\Movieland.pdb
+C:\Users\yAS\Desktop\Liquid Entertainment\3.SINIF\PROJELER\Dönem Uygulamalarım\2013123038_yasinkursadsurek\Movieland\Movieland\bin\Debug\Movieland.exe.config
+C:\Users\yAS\Desktop\Liquid Entertainment\3.SINIF\PROJELER\Dönem Uygulamalarım\2013123038_yasinkursadsurek\Movieland\Movieland\obj\Debug\Movieland.exe
+C:\Users\yAS\Desktop\Liquid Entertainment\3.SINIF\PROJELER\Dönem Uygulamalarım\2013123038_yasinkursadsurek\Movieland\Movieland\obj\Debug\Movieland.pdb
